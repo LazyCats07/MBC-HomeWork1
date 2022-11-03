@@ -3,15 +3,15 @@ def tambah(a, b):
     return tambah
 
 def kurang(a, b):
-    tambah = float(a) - float(b)
+    kurang = float(a) - float(b)
     return kurang
     
 def kali(a, b):
-    tambah = float(a) * float(b)
+    kali = float(a) * float(b)
     return kali
 
 def bagi(a, b):
-    tambah = float(a) / float(b)
+    bagi = float(a) / float(b)
     return bagi
 
 while True:
