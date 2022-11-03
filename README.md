@@ -1,4 +1,4 @@
-KALKULATOR SEDERHANA
+# KALKULATOR SEDERHANA
 <<<<<<< HEAD
 Kalkulator yang kami buat memiliki 2 tipe atau 2 model dan nantinya akan dibuat dalam bahasa PYTHON.
 
